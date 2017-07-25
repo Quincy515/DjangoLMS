@@ -9,7 +9,7 @@ from .models import UserMessage
 
 
 def getform(request):
-    # all_message = UserMessage.objects.all() # 将数据库中的所有变量返回给我们
+    # all_message = UserMeåssage.objects.all() # 将数据库中的所有变量返回给我们
     # for message in all_message:
     #     print message.name
 
